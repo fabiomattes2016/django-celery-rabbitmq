@@ -15,5 +15,5 @@ def create_random_user_accounts(total):
     data = {
         "result": '{} random users created with success!'.format(total)
     }
-        
+
     return data
